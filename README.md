@@ -1,4 +1,4 @@
-##Practica_Git##
+##Practica_Git
 
 >¿Qué comando utilizaste en el paso 11? git reset HEAD ¿Por qué? para perder los cambios del working copy
 >
