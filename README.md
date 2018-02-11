@@ -1,7 +1,9 @@
 ##Practica_Git
 
-¿Qué comando utilizaste en el paso 11? git reset HEAD ¿Por qué? para perder los cambios del working copy
-¿Qué comando o comandos utilizaste en el paso 12? git reflog y git reset --hard ¿Por qué? Para buscar el paso anterior
+>¿Qué comando utilizaste en el paso 11? git reset HEAD ¿Por qué? para perder los cambios del working copy
+>
+>¿Qué comando o comandos utilizaste en el paso 12? git reflog y git reset --hard ¿Por qué? Para buscar el paso anterior
+>
 El merge del paso 13, ¿Causó algún conflicto? No ¿Por qué? Lo que hay en la rama master ya lo tiene la rama style
 El merge del paso 19, ¿Causó algún conflicto?Si ¿Por qué? Porque todas las lineas estan modificadas
 El merge del paso 21, ¿Causó algún conflicto? No ¿Por qué? Porque no hay cambios en el archivo en las dos ramas
