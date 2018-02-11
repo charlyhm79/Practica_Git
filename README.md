@@ -1,5 +1,5 @@
-##Practica_Git
-
+Practica_Git
+============
 >¿Qué comando utilizaste en el paso 11? git reset HEAD ¿Por qué? para perder los cambios del working copy
 >
 >¿Qué comando o comandos utilizaste en el paso 12? git reflog y git reset --hard ¿Por qué? Para buscar el paso anterior
